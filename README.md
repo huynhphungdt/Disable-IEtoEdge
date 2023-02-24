@@ -8,6 +8,8 @@ Ngày 14/02/2023, Microsoft đã vô hiệu hóa vĩnh viễn Internet Explorer 
 *** Why the project is useful
 - Ở lại với IE muôn đời. IE muôn năm.
 
+P/s: Script vẫn dùng được trên Window 10 và Window 11. Đã kiểm nghiệm.
+
 *** Reference: https://www.zabkat.com/blog/remove-edge-bho.htm
 
 Write by: Phung Huynh
